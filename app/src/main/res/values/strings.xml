@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SignUp and SignIn</string>
+    <array name="gender">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </array>
+</resources>
